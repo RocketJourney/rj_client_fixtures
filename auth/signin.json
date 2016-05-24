@@ -1,0 +1,33 @@
+{
+    "token":"exv0",
+    "this_week":{"wednesday":false,
+        "tuesday":false,
+        "thursday":false,
+        "sunday":false,
+        "saturday":false,
+        "monday":false,
+        "friday":false
+    },
+    "status":{"workout_source":true,
+        "week_streak":0,
+        "streak":0,
+        "max_streak":0,
+        "danger_zone":true
+    },
+    "settings":{"weight":67.0,
+        "utc":-5,
+        "unit_system":true,
+        "onboard":false,
+        "height":160.0,
+        "completed_registration":false
+    },
+    "profile_pic":"https://s3.rocketjourney.com/uploads/user/avatars/Ernesto-51-479848.jpg",
+    "last_name":"",
+    "last_event":"2016-03-16T02:20:01.000Z",
+    "id":1,
+    "gender":"male",
+    "first_name":"",
+    "cheat_progress":0.333,
+    "cheat_days":0,
+    "birthdate":null
+}

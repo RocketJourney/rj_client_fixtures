@@ -1,0 +1,18 @@
+[{"name":"Cereal Killers",
+ "members":[
+            {"week_streak":3,"user_id":4222,"streak":8,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/1.jpg","notifications":true,"max_streak":1,"last_name":"Perez Chamorro ","last_event":"2016-04-07T01:01:04.000Z","first_name":"Misael","danger_zone":false,"cheat_days":1,"accepted":true},
+            {"week_streak":2,"user_id":4855,"streak":10,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/2.jpg","notifications":true,"max_streak":0,"last_name":"Lopez","last_event":null,"first_name":"Erika","danger_zone":false,"cheat_days":1,"accepted":true},
+            {"week_streak":2,"user_id":4743,"streak":2,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/3.jpg","notifications":true,"max_streak":0,"last_name":"Cohete","last_event":null,"first_name":"Rolando","danger_zone":false,"cheat_days":1,"accepted":true},
+            {"week_streak":1,"user_id":1603,"streak":6,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/4.jpg","notifications":true,"max_streak":0,"last_name":"Cambustón","last_event":"2016-03-16T02:20:01.000Z","first_name":"Ernesto","danger_zone":false,"cheat_days":0,"accepted":true},
+            {"week_streak":1,"user_id":5234,"streak":4,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/5.jpg","notifications":true,"max_streak":0,"last_name":"Artee ","last_event":"2016-04-07T00:41:24.000Z","first_name":"Pablo","danger_zone":false,"cheat_days":0,"accepted":true},
+            {"week_streak":1,"user_id":4144,"streak":11,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/6.jpg","notifications":true,"max_streak":2,"last_name":"Acosta ","last_event":"2016-03-22T22:10:34.144Z","first_name":"Jose","danger_zone":false,"cheat_days":0,"accepted":true},
+            {"week_streak":0,"user_id":44533,"streak":0,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/7.jpg","notifications":true,"max_streak":2,"last_name":"Acosta ","last_event":"2016-03-22T22:10:34.144Z","first_name":"Jose","danger_zone":false,"cheat_days":0,"accepted":true},
+            {"week_streak":0,"user_id":4234,"streak":0,"share_photos":true,"profile_pic":"https://s3.rocketjourney.com/fixtures/8.jpg","notifications":true,"max_streak":2,"last_name":"Acosta ","last_event":"2016-03-22T22:10:34.144Z","first_name":"Jose","danger_zone":true,"cheat_days":0,"accepted":false}],
+ "left":false,
+ "kicker":"",
+ "kicked_out":false,
+ "id":1,
+ "created_at":"2016-02-27T01:45:14.000Z",
+ "admin_id":1,
+ "accepted":true
+}]

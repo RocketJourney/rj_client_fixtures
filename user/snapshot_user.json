@@ -1,0 +1,36 @@
+{
+    "token":"exv0",
+    "this_week":{
+        "wednesday":false,
+        "tuesday":true,
+        "thursday":true,
+        "sunday":false,
+        "saturday":false,
+        "monday":false,
+        "friday":false
+    },
+    "status":{
+        "workout_source":true,
+        "week_streak":2,
+        "streak":12,
+        "max_streak":12,
+        "danger_zone":false
+    },
+    "settings":{
+        "weight":67.0,
+        "utc":-5,
+        "unit_system":true,
+        "onboard":true,
+        "height":160.0,
+        "completed_registration":true
+    },
+    "profile_pic":"https://s3.rocketjourney.com/fixtures/journey-avatar.jpg",
+    "last_name":"",
+    "last_event":"2016-03-16T02:20:01.000Z",
+    "id":1,
+    "gender":"female",
+    "first_name":"Sophie",
+    "cheat_progress":0.8,
+    "cheat_days":3,
+    "birthdate":null
+}
