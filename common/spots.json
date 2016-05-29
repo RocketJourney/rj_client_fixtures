@@ -1,0 +1,13 @@
+ [{"id": 1,
+  "name": "SportsWorld Condesa",
+"created_at": "2016-03-22T21:39:08.000Z",
+"verified": true,
+"auth_type": "Fingerprint",
+"address": "Amsterdam 43",
+"phone_number": 34567812764,
+"latitude": -13.3857,
+"longitude": -13.3857,
+  "club_name":"SportsWorld",
+"club_namespace":"sportsworld",
+"type": 2,
+"badge_url": "https://s3.rocketjourney.com/assets/spots/badges/sportsworld.png"}]
