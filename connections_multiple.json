@@ -1,0 +1,33 @@
+[{
+ "namespace":"facebook",
+ "name":"Facebook",
+ "type":"account"
+ }, {
+  "namespace":"strava",
+ "name":"Strava",
+  "type": "app",
+  "badge_url": "https://s3.rocketjourney.com/assets/spots/badges/sportsworld.png",
+  "pending": false,
+  "action": "tap_to_refresh"
+ }, {
+ "namespace":"sportsworld",
+ "type": "gym",
+ "name":"SportsWorld",
+ "badge_url": "https://s3.rocketjourney.com/assets/spots/badges/sportsworld.png",
+ "pending": true,
+ "action": "fingerprint_check"
+ }, {
+ "namespace":"ymca",
+ "type": "gym",
+ "name":"YMCA",
+ "badge_url": "https://s3.rocketjourney.com/assets/spots/badges/planet-gim.png",
+ "pending": false,
+ "action": "fingerprint_check"
+ }, {
+ "namespace":"planetgim",
+ "type": "gym",
+ "name":"Planet Gim",
+ "badge_url": "https://s3.rocketjourney.com/assets/spots/badges/planet-gim.png",
+ "pending": false,
+ "action": "scanner_check"
+ }]
